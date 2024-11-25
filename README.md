@@ -17,7 +17,7 @@ pip install xerox
 
 2. Download the script
 
-`wget whatever`
+`wget https://github.com/somegenericdev/base64-nautilus-extension/blob/main/src/b64.py`
 
 3. Make it executable
 
